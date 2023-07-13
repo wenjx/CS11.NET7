@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLosI5pcWV7Oer3sY+BDU3VdMSCdMltpZFypp7vGfwAsAsziqAmkCoxjh6fXkZa7t7m8vOAv7UKU0kUHDB56Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jixinwen\\OneDrive - Microsoft\\learning\\cs11dotnet7\\vs4win\\Chapter01\\HelloCS\\HelloCS.csproj",
+  "expectedPackageFiles": [
+    "D:\\nugetcache\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "D:\\nugetcache\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "D:\\nugetcache\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "D:\\nugetcache\\microsoft.netcore.app.host.win-x64\\7.0.2\\microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
